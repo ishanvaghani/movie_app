@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/drawable-v24/ic_error.xml" value="0.24461538461538462" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/drawable/button_back.xml" value="0.1" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/drawable/genre_background.xml" value="0.24461538461538462" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.20462962962962963" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/layout/activity_details.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/layout/activity_main.xml" value="0.15561758548499652" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/layout/genre_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/layout/movie_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/layout/movie_load_state_footer.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/layout/slider_item.xml" value="0.21851851851851853" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/menu/menu_details.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android kotlin/Apps/Movie App/app/src/main/res/menu/menu_home.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
